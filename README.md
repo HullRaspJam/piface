@@ -4,4 +4,12 @@ This repository will detail how to set up a Pimoroni Enviro pHAT and PiFace HAT 
 
 Documentation will be in the repository Wiki and example Python files will be here.
 
-You can clone this code to your Raspberry Pi by opening your terminal and typing: git clone https://github.com/HullRaspJam/piface.git
+You can clone this code to your Raspberry Pi by opening your terminal and typing: 
+```bash
+cd ~
+git clone https://github.com/HullRaspJam/piface.git
+```
+You can then move into the newly cloned directory by typing:
+```bash
+cd ~/piface
+```
